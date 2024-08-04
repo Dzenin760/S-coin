@@ -1,0 +1,9 @@
+body {
+    height: 90vh;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    backdrop-filter: blur(10px);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwGDHVZlvkllGn0v2IdJKwPDEoU2ogFWZGBw&s);
+}
